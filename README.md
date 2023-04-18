@@ -27,7 +27,7 @@ Il contient des informations sur les maisons à Boston, ainsi que leur prix de v
 Le code source de ce projet est disponible dans le fichier `IAS_project2`. Vous pouvez l'exécuter dans Jupyter Notebook pour reproduire les résultats de notre analyse.
 
 ## Auteurs
-Moi même, Mikail YILMAZ, Lina TANGUANTEGEY, Thomas JAROSSAY
+Moi même, Mikail YILMAZ, Lina TAGUENGAYTE, Thomas JAROSSAY
 
 ## Conclusion
 Dans ce projet, nous avons utilisé une régression linéaire pour prédire les prix des maisons à Boston. Nous avons obtenu de bons résultats en utilisant un ensemble de caractéristiques sélectionnées à l'aide d'une analyse de corrélation. Cependant, il y a encore de la place pour améliorer les résultats en utilisant d'autres algorithmes de machine learning et en explorant davantage les données.
