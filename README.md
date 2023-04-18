@@ -24,7 +24,7 @@ https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
 Il contient des informations sur les maisons à Boston, ainsi que leur prix de vente. Le jeu de données est fourni sous forme de fichier CSV.
 
 ## Utilisation
-Le code source de ce projet est disponible dans le fichier "boston_housing.ipynb". Vous pouvez l'exécuter dans Jupyter Notebook pour reproduire les résultats de notre analyse.
+Le code source de ce projet est disponible dans le fichier `IAS_project2`. Vous pouvez l'exécuter dans Jupyter Notebook pour reproduire les résultats de notre analyse.
 
 ## Auteurs
 Moi même, Mikail YILMAZ, Lina TANGUANTEGEY, Thomas JAROSSAY
